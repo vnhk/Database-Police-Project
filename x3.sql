@@ -1,0 +1,12 @@
+DELETE FROM WykroczeniaZatrzymani;
+DELETE FROM Wykroczenia;
+DELETE FROM Zatrzymani;
+DELETE FROM ZgloszeniaPoszukiwani;
+DELETE FROM Zgloszenia;
+DELETE FROM Poszukiwani;
+DELETE FROM Zglaszajacy;
+DELETE FROM Pracownicy_Adm;
+DELETE FROM Policjanci;
+DELETE FROM Radiowozy;
+DELETE FROM Osoba;
+DELETE FROM Komenda;
